@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="664" viewBox="0 0 48 664">
+  <g id="그룹_73" data-name="그룹 73" transform="translate(-50 -4462)">
+    <path id="패스_4" data-name="패스 4" d="M1,136H-1V0H1Z" transform="translate(74 4510)" fill="#fff"/>
+    <path id="패스_4-2" data-name="패스 4" d="M1,136H-1V0H1Z" transform="translate(74 4842)" fill="#fff"/>
+    <path id="패스_4-3" data-name="패스 4" d="M1,100H-1V0H1Z" transform="translate(74 4694)" fill="#fff"/>
+    <path id="패스_4-4" data-name="패스 4" d="M1,100H-1V0H1Z" transform="translate(74 5026)" fill="#fff"/>
+    <g id="check-circle" transform="translate(50 4462)">
+      <path id="패스_2" data-name="패스 2" d="M24,45A21,21,0,1,1,45,24,21,21,0,0,1,24,45Zm0,3A24,24,0,1,0,0,24,24,24,0,0,0,24,48Z" fill="#fff"/>
+      <path id="패스_3" data-name="패스 3" d="M24.665,5.42a.7.7,0,0,0-.06.066L14.186,18.761,7.907,12.479a2.25,2.25,0,0,0-3.18,3.18L12.665,23.6a2.25,2.25,0,0,0,3.237-.06L27.878,8.57a2.25,2.25,0,1,0-3.213-3.15Z" transform="translate(8.245 9.49)" fill="#a4e1c5"/>
+    </g>
+    <g id="check-circle-2" data-name="check-circle" transform="translate(50 4794)">
+      <path id="패스_2-2" data-name="패스 2" d="M24,45A21,21,0,1,1,45,24,21,21,0,0,1,24,45Zm0,3A24,24,0,1,0,0,24,24,24,0,0,0,24,48Z" fill="#fff"/>
+      <path id="패스_3-2" data-name="패스 3" d="M24.665,5.42a.7.7,0,0,0-.06.066L14.186,18.761,7.907,12.479a2.25,2.25,0,0,0-3.18,3.18L12.665,23.6a2.25,2.25,0,0,0,3.237-.06L27.878,8.57a2.25,2.25,0,1,0-3.213-3.15Z" transform="translate(8.245 9.49)" fill="#a4e1c5"/>
+    </g>
+    <g id="check-circle-3" data-name="check-circle" transform="translate(50 4646)">
+      <path id="패스_2-3" data-name="패스 2" d="M24,45A21,21,0,1,1,45,24,21,21,0,0,1,24,45Zm0,3A24,24,0,1,0,0,24,24,24,0,0,0,24,48Z" fill="#fff"/>
+      <path id="패스_3-3" data-name="패스 3" d="M24.665,5.42a.7.7,0,0,0-.06.066L14.186,18.761,7.907,12.479a2.25,2.25,0,0,0-3.18,3.18L12.665,23.6a2.25,2.25,0,0,0,3.237-.06L27.878,8.57a2.25,2.25,0,1,0-3.213-3.15Z" transform="translate(8.245 9.49)" fill="#a4e1c5"/>
+    </g>
+    <g id="check-circle-4" data-name="check-circle" transform="translate(50 4978)">
+      <path id="패스_2-4" data-name="패스 2" d="M24,45A21,21,0,1,1,45,24,21,21,0,0,1,24,45Zm0,3A24,24,0,1,0,0,24,24,24,0,0,0,24,48Z" fill="#fff"/>
+      <path id="패스_3-4" data-name="패스 3" d="M24.665,5.42a.7.7,0,0,0-.06.066L14.186,18.761,7.907,12.479a2.25,2.25,0,0,0-3.18,3.18L12.665,23.6a2.25,2.25,0,0,0,3.237-.06L27.878,8.57a2.25,2.25,0,1,0-3.213-3.15Z" transform="translate(8.245 9.49)" fill="#a4e1c5"/>
+    </g>
+  </g>
+</svg>

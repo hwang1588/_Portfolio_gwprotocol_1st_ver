@@ -1,0 +1,259 @@
+.tech_bg {
+  position: absolute;
+  left: -330px;
+  width: 130%;
+  margin-top: 0px;
+}
+
+.tech_img_bg{  
+  background: url(../img/img_tech_bg.svg) no-repeat;
+  background-position: 50% 28%;
+}
+
+.tech_img_bg2{  
+  background: url(../img/img_ser_bg.svg) no-repeat;
+  background-position: 50% 39%;
+}
+
+.tech_bg2 {
+    position: absolute;
+    left: -250px;
+    width: 140%;
+    margin-top: -400px;
+    height: 1100px;
+    /* padding: 0 300px 0 400px; */
+}
+
+
+body {
+  overflow-x: hidden;
+}
+
+
+.core {	
+  background: url(../img/main_bg.svg) no-repeat;
+}
+
+/*
+.bar{
+  position: absolute;
+  left: calc(51.3% - 0px);
+  top: 5552px;
+  width: 1px;
+  height: 500px;
+  background: #ffffff;
+  content: "";
+}
+*/
+
+.bar {
+  width: 1px;
+  height: 132px;
+  margin-left: 23px;
+  background-color: white;
+}
+
+.bar_last {
+  width: 1px;
+  height: 112px;
+  margin-left: 23px;
+  background-color: white;
+}
+
+.row.text-white.gx-0 .col:nth-child(1) .vert-move {
+    -webkit-animation: mover 1s infinite  alternate;
+    animation: mover 1s infinite  alternate;
+}
+
+.row.text-white.gx-0 .col:nth-child(2) .vert-move {
+    -webkit-animation: mover 1s infinite  alternate;
+    animation: mover 1s infinite  alternate;
+    animation-delay: 500ms;
+}
+
+.row.text-white.gx-0 .col:nth-child(3) .vert-move {
+    -webkit-animation: mover 1s infinite  alternate;
+    animation: mover 1s infinite  alternate;
+    animation-delay: 250ms;
+}
+
+.row.text-white.gx-0 .col:nth-child(4) .vert-move {
+    -webkit-animation: mover 1s infinite  alternate;
+    animation: mover 1s infinite  alternate;
+    animation-delay: 350ms;
+}
+
+.row.text-white.gx-0 .col:nth-child(5) .vert-move {
+    -webkit-animation: mover 1s infinite  alternate;
+    animation: mover 1s infinite  alternate;
+    animation-delay: 150ms;
+}
+
+
+
+/*키프레임 애니메이션 입니다.
+0%에서 100%까지 움직이는 값을 표현합니다.*/
+@keyframes mover {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-40px); }
+}
+
+
+.sns {
+    float: right;
+}
+
+.sns li {
+    float: left;
+}
+
+.sns img {
+    width: 45px;
+    height: 45px;
+}
+
+.contact {
+  background: url(../img/img_con_bg.svg) no-repeat center center;
+  background-size: cover;
+}
+
+/*
+@media all and (max-width: 900px) {
+  .core{	
+  background: url(../img/img_main_bg.svg)no-repeat;
+  background-size:contain;
+  background-position: absolute;
+}
+}*/
+
+.m_sns {
+  width: 198px;
+  height: 30px;
+  display: block;
+  margin: 0 auto;
+}
+
+.m_sns li {
+  float: left;
+  margin-right: 12px;
+}
+
+.m_sns li:last-child {
+  margin-right: 0;
+}
+
+.m_sns li img {
+  width: 30px;
+  height: 30px;
+}
+
+
+.partners div {
+  height: 240px; 
+  margin-bottom: 90px;
+}
+
+.partners div ul {
+  height: 120px; 
+  padding: 0; 
+  margin: 0;
+}
+
+.partners div ul .list {
+  width: 248px; 
+  height: 120px; 
+  display: block;
+  float: left;
+}
+
+.partners div ul .list img {
+  width: 248px; 
+  height: auto; 
+  display: block;
+  margin: 0 auto;
+}
+
+
+@media all and (max-width: 1400px) {
+  .tech_bg {
+    width: 150%;
+  }
+
+  .tech_bg2 {
+    left: 50%;
+    bottom: -320px;
+    padding: 0;
+    transform: translateX(-50%);
+  }
+
+  .partners div {
+    height: 80px; 
+  }
+  
+  .partners div ul {
+    width: 820px;
+    height: 80px; 
+    margin: 0 auto;
+  }
+  
+  .partners div ul .list {
+    width: 164px; 
+    height: 80px;
+  }
+  
+  .partners div ul .list img {
+    width: 164px; 
+  }
+
+}
+
+  
+
+@media all and (max-width: 768px) {
+  .core {	
+    background: url(../img/main_bg_m.svg) no-repeat;
+
+  }
+
+  .tech_bg {
+    left: -100px;
+  }
+
+  .tech_bg2 {
+    bottom: -100px;
+    height: 300px;
+  }
+
+  .partners div {
+    height: 60px; 
+  }
+  
+  .partners div ul {
+    width: 369px;
+    height: 123px; 
+    margin: 0 auto;
+  }
+  
+  .partners div ul .list {
+    width: 123px; 
+    height: 60px;
+  }
+  
+  .partners div ul .list img {
+    width: 123px; 
+  }
+
+}
+
+.mov_container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    width: auto;
+    min-width: 100%;
+    height: auto;
+    min-height: 100%;
+    z-index: -1;
+}
+
